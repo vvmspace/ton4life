@@ -33,7 +33,7 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 keywords = ["$2"]
 env = "production"
-title = "TON - The Open Networw"
+title = "TON - The Open Network"
 description = "Buy and sell crypto"
 author = "Emma Monday"
 copyright = "© 2025 AI Log Lake"
@@ -57,13 +57,13 @@ tocopen = false
 # Schema settings
 [params.schema]
 type = "Organization"
-name = "TON - The Open Networw"
+name = "TON - The Open Network"
 url = "https://ton4.life/"
 logo = "/images/logo.png"
 description = "Buy and sell crypto"
 
 [params.homeInfoParams]
-Title = "TON - The Open Networw"
+Title = "TON - The Open Network"
 Content = "Buy and sell crypto"
 [params.fuseOpts]
 isCaseSensitive = false
